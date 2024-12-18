@@ -1,8 +1,8 @@
 {
-  "name": "vue-element-plus-admin",
+  "name": "hsun-admin",
   "version": "2.8.1",
-  "description": "一套基于vue3、element-plus、typesScript、vite4的后台集成方案。",
-  "author": "Archer <502431556@qq.com>",
+  "description": "基于vue3、element-plus、typesScript、vite4的后台集成方案。",
+  "author": "FeyFey <wxb1@h-sun.com>",
   "private": false,
   "type": "module",
   "scripts": {
@@ -130,10 +130,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kailong321200875/vue-element-plus-admin.git"
+    "url": "git@github.com:FeyaiFey/hsun-admin.git"
   },
   "bugs": {
-    "url": "https://github.com/kailong321200875/vue-element-plus-admin/issues"
+    "url": "https://github.com/FeyaiFey/hsun-admin"
   },
-  "homepage": "https://github.com/kailong321200875/vue-element-plus-admin"
+  "homepage": "https://github.com/FeyaiFey/hsun-admin"
 }
